@@ -1,20 +1,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <style>
-    body {
-      margin: 0;
-      background-color: black; /* Hintergrund schwarz */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    img {
-      max-width: 90%;
-      max-height: 90%;
-    }
-  </style>
+
 </head>
 <body>
   <img src="logo2.png" alt="LAN Party Logo">
