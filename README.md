@@ -1,7 +1,6 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Meine LAN-Party</title>
   <style>
     body {
       margin: 0;
